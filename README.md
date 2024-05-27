@@ -1,2 +1,0 @@
-# jenkinsterra
-trial
